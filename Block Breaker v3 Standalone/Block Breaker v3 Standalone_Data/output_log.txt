@@ -1,0 +1,62 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.427 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Desktop Common\Folders\Unity\Standalone Builds\Block Breaker v3 Standalone\Block Breaker v3 Standalone_Data\Managed\System.dll (this message is harmless)
+Music Player Awake, 10162
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Music Player Start, 10162
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level load requested for: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 9.596280 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 424.
+Total: 1.389447 ms (FindLiveObjects: 0.024579 ms CreateObjectMapping: 0.013913 ms MarkObjects: 0.183188 ms  DeleteObjects: 0.011130 ms)
+
+mouse clicked, launch ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.227129 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 625.
+Total: 1.350955 ms (FindLiveObjects: 0.038028 ms CreateObjectMapping: 0.027826 ms MarkObjects: 0.242550 ms  DeleteObjects: 0.013913 ms)
+
+mouse clicked, launch ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 2.016461 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 696.
+Total: 1.442781 ms (FindLiveObjects: 0.037565 ms CreateObjectMapping: 0.016231 ms MarkObjects: 0.304695 ms  DeleteObjects: 0.011130 ms)
+
+mouse clicked, launch ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
